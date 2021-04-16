@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/2021/03/28/1-Eslint%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/</loc>
+    <loc>http://example.com/2021/04/09/2-TypeScript%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3-4.2/</loc>
     
-    <lastmod>2021-04-10</lastmod>
+    <lastmod>2021-04-16</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/2021/04/09/4-TypeScript%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3-4.2/</loc>
+    <loc>http://example.com/2021/03/28/1-Eslint%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/</loc>
     
     <lastmod>2021-04-10</lastmod>
     
@@ -32,7 +32,7 @@
 
   <url>
     <loc>http://example.com/</loc>
-    <lastmod>2021-04-10</lastmod>
+    <lastmod>2021-04-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -40,14 +40,14 @@
   
   <url>
     <loc>http://example.com/tags/Eslint/</loc>
-    <lastmod>2021-04-10</lastmod>
+    <lastmod>2021-04-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/TypeScript/</loc>
-    <lastmod>2021-04-10</lastmod>
+    <lastmod>2021-04-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -56,7 +56,7 @@
   
   <url>
     <loc>http://example.com/categories/%E5%89%8D%E7%AB%AF/</loc>
-    <lastmod>2021-04-10</lastmod>
+    <lastmod>2021-04-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>

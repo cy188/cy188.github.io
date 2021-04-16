@@ -9,6 +9,13 @@
   </url>
   
   <url>
+    <loc>http://example.com/2021/04/17/3-LeetCode/</loc>
+    
+    <lastmod>2021-04-16</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://example.com/2021/03/28/1-Eslint%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/</loc>
     
     <lastmod>2021-04-10</lastmod>
@@ -40,6 +47,13 @@
   
   <url>
     <loc>http://example.com/tags/Eslint/</loc>
+    <lastmod>2021-04-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/LeetCode/</loc>
     <lastmod>2021-04-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>

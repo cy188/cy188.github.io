@@ -46,14 +46,14 @@
 
   
   <url>
-    <loc>http://example.com/tags/Eslint/</loc>
+    <loc>http://example.com/tags/LeetCode/</loc>
     <lastmod>2021-05-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/LeetCode/</loc>
+    <loc>http://example.com/tags/Eslint/</loc>
     <lastmod>2021-05-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
